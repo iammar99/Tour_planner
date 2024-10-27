@@ -1,7 +1,31 @@
+# Tour Planner AI
+
+## Table of Content
+
+- [What is Super Human AI?](#what-is-super-human-ai)
+- [Technologies Used](#technologies-used)
+- [How Does It Work?](#how-does-it-work)
+- [Why Is It Needed?](#why-is-it-needed)
+- [How to Contribute?](#how-to-contribute)
+- [Folder structuer](#folder-structuer)
+- [Team](#team)
 
 
+## Folder Structuer
 
+```
 
+├───public
+└───src
+    ├───Components
+    │   ├───Footer
+    │   ├───Header
+    │   └───Screen Loader
+    ├───Pages
+    └───SCSS
+        └───Components
+
+```
 
 
 

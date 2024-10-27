@@ -20,7 +20,7 @@ export default function Agent() {
   };
 
   return (
-    <div>
+    <main>
       <Link to={"/"}>Home</Link>
       <div>
         <h1>Search Images</h1>
@@ -39,6 +39,6 @@ export default function Agent() {
           ))}
         </ul>
       </div>
-    </div>
+    </main>
   )
 }
