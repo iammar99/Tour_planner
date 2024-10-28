@@ -6,7 +6,7 @@ export default function TopNav() {
     <header>
       <div className="backImg">
         <div className="animation">
-          <h1 className='text-center'>Adventure Beyond Limits,Where Thrills Meet Nature.</h1>
+          <h1 className='text-center px-3'>Adventure Beyond Limits,Where Thrills Meet Nature.</h1>
           <div className="d-flex justify-content-center my-3">
             <h5 className='text-center' style={{ width: "65%" }}>Push your boundaries and discover the thrill of the unknown with experiences that challenge, inspire, and captivate.Experience the best of both worlds with exhilarating activities set in stunning, natural backdrops.</h5>
           </div>
