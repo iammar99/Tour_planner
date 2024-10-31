@@ -18,7 +18,6 @@ const Agent = () => {
     };
 
     const handleChat = async () => {
-        console.log(process.env.REACT_APP_UNSPLASH_API_KEY)
         if (!destination) {
             return;
         }
