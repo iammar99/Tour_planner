@@ -118,8 +118,11 @@ Follow these steps to Run the app
 
 ### Live Demo
 
+[Tour Guide](https://tour-planner-dun.vercel.app/)
 
 ### Video Demo
+
+[Video Demo](https://vimeo.com/1025252979?share=copy)
 
 
 <!-- <video src="/src/assets/Untitled ‑ Made with FlexClip.mp4"></video> -->
