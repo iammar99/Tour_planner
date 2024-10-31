@@ -1,13 +1,13 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Card from '../Components/Cards'
-import tour from '../Assets/tour.png'
-import img1 from '../Assets/undraw_landscape_mode_re_r964.svg'
-import img2 from '../Assets/undraw_tourist_map_re_293e.svg'
-import img3 from '../Assets/undraw_right_direction_tge8.svg'
-import img4 from '../Assets/react.png'
-import img5 from '../Assets/gpt.png'
-import img6 from '../Assets/unsplash.png'
+import tour from '../assets/tour.png'
+import img1 from '../assets/undraw_landscape_mode_re_r964.svg'
+import img2 from '../assets/undraw_tourist_map_re_293e.svg'
+import img3 from '../assets/undraw_right_direction_tge8.svg'
+import img4 from '../assets/react.png'
+import img5 from '../assets/gpt.png'
+import img6 from '../assets/unsplash.png'
 import Footer from 'Components/Footer'
 import Header from 'Components/Header'
 import OtherCards from 'Components/OtherCards'
@@ -43,9 +43,9 @@ export default function Home() {
   Try Now
   <svg fill="currentColor" viewBox="0 0 24 24" className="icon">
     <path
-      clip-rule="evenodd"
+      clipRule="evenodd"
       d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
-      fill-rule="evenodd"
+      fillRule="evenodd"
     ></path>
   </svg>
 </button>
