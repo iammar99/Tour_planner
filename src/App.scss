@@ -1,39 +1,18 @@
 // -------------- Components --------------
 @import './SCSS/Components/bootstrap';
 @import './SCSS/Components/ScreenLoader';
-@import './SCSS/Components/button';
-@import './SCSS/Components/card';
 // -------------- Auth --------------
 // -------------- Dashboard --------------
 // -------------- Frontend --------------
 
-#root {
+#root{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: #f3f3f3;
 }
 
-main {
+main{
     flex: 1 0 auto;
+  
 }
-
-::-webkit-scrollbar {
-    display: none;
-}
-
-.backImg {
-    background-image: url(./assets/backImg.png);
-    background-size: cover;
-    height: 600px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    // background-position: center;
-}
-
-.animation {
-    color: #fff;
-    animation: fadeIn 2s ease-in-out;
-}
-

@@ -1,0 +1,19 @@
+.card {
+       width: 90%;
+    height: 400px;
+    border: 1px solid #ffffff;
+    box-shadow: 12px 17px 51px rgba(0, 0, 0, 0.22);
+    border-radius: 17px;
+    text-align: center;
+    transition: all 0.5s;
+    color: #ffffff; // Updated to keep text visible on darker background
+}
+
+.card:hover {
+    border: 1px solid #2A2D34; // Slightly darker border on hover
+    transform: scale(1.05);
+}
+
+.card:active {
+    transform: scale(0.95) rotateZ(1.7deg);
+}
